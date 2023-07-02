@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="display: inline-table">
   <h2> Bem vindo ao meu perfil!</h1>
 
   Me chamo Thiago, tenho 20 anos e moro em Curitiba - PR. Estou no 1º período de Ciência da Computação!
