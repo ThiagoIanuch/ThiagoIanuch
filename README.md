@@ -2,7 +2,7 @@
 
 <br>
  
-Me chamo Thiago, tenho 20 anos e moro em Curitiba - PR. Estou no 1º período de Ciência da Computação!
+Me chamo Thiago, tenho 20 anos e moro em Curitiba, PR. Estou no 1º período de Ciência da Computação!
 
 <br>
 
