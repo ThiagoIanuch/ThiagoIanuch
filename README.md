@@ -1,7 +1,7 @@
 <div align="center">
   <h3> Bem vindo(a)!</h3>
   
-  Me chamo Thiago, tenho 20 anos e moro em Curitiba, PR. Estou no 3º período de Ciência da Computação!
+  Me chamo Thiago, tenho 21 anos e moro em Curitiba, PR. Estou no 3º período de Ciência da Computação!
 </div>
 
 <div align="center" style="display: inline-block">
