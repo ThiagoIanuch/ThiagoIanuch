@@ -39,8 +39,8 @@ int main()
 <blockquote>
   <div align="center">
   <div style="display: flex; align-items: flex-start; gap: 10px;">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIanuch&langs_count=6&theme=codeSTACKr&layout=compact" />
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoIanuch&theme=codeSTACKr&show_icons=true" />
+      <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIanuch&langs_count=6&theme=codeSTACKr&layout=compact" />
+      <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoIanuch&theme=codeSTACKr&show_icons=true" />
     </div>
     <br />
     <img src="https://komarev.com/ghpvc/?username=ThiagoIanuch&label=PROFILE+VIEWS&color=orange" />
