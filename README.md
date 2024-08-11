@@ -1,10 +1,48 @@
-<div align="center">
-  <h3> Bem vindo(a)!</h3>
-  
-  Me chamo Thiago, tenho 21 anos e moro em Curitiba, PR. Estou no 3º período de Ciência da Computação!
-</div>
+```c++
+#include <iostream>
 
-<div align="center" style="display: inline-block">
-  <img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIanuch&langs_count=6&theme=codeSTACKr&layout=compact"> 
-  <img width="465px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ThiagoIanuch&theme=codeSTACKr&show_icons=true"> 
-</div>
+class Profile {
+    private:
+        std::string name;
+        int         age;
+        std::string location;
+
+    public:
+        Profile(std::string name, int age, std::string location) 
+            : name(name), age(age), location(location) {
+        }
+
+        void introduce() {
+            std::cout << "Name:     " << name     << std::endl;
+            std::cout << "Age:      " << age      << std::endl;
+            std::cout << "Location: " << location << std::endl;
+
+            std::cout << "=================================================================" << std::endl;
+            std::cout << "Welcome to my profile!"                                            << std::endl;
+            std::cout << "I am in the 4th semester of Computer Science."                     << std::endl;
+            std::cout << "Currently learning C++ with SFML, OpenGL and Unreal Engine."       << std::endl;
+            std::cout << "Also studying Japanese and currently at N5 level."                 << std::endl;
+            std::cout << "=================================================================" << std::endl;
+        }
+};
+
+int main()
+{
+    Profile profile("Thiago Ianuch", 21, "Curitiba - Brazil");
+
+    profile.introduce();
+
+    return 0;
+}
+```
+
+<blockquote>
+  <div align="center">
+  <div style="display: flex; align-items: flex-start; gap: 10px;">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIanuch&langs_count=6&theme=codeSTACKr&layout=compact" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoIanuch&theme=codeSTACKr&show_icons=true" />
+    </div>
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=ThiagoIanuch&label=PROFILE+VIEWS&color=orange" />
+  </div>
+</blockquote>
