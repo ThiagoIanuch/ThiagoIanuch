@@ -8,8 +8,10 @@ class Profile {
         std::string location;
 
     public:
-        Profile(std::string name, int age, std::string location) 
-            : name(name), age(age), location(location) {
+        Profile(std::string name, int age, std::string location) {
+            this->name     = name;
+            this->age      = age;
+            this->location = location;
         }
 
         void introduce() {
