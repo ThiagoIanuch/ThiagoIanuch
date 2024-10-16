@@ -46,5 +46,9 @@ int main()
     </div>
     <br />
     <img src="https://komarev.com/ghpvc/?username=ThiagoIanuch&label=PROFILE+VIEWS&color=orange" />
+    <br><br>
+    My Itch.io:<br>
+    <a href="https://thiagoianuch.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+
   </div>
 </blockquote>
