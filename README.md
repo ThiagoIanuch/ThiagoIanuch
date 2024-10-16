@@ -19,12 +19,12 @@ class Profile {
             std::cout << "Age:      " << age      << std::endl;
             std::cout << "Location: " << location << std::endl;
 
-            std::cout << "=================================================================" << std::endl;
-            std::cout << "Welcome to my profile!"                                            << std::endl;
-            std::cout << "I am in the 4th semester of Computer Science."                     << std::endl;
-            std::cout << "Currently learning C++ with SFML, OpenGL and Unreal Engine."       << std::endl;
-            std::cout << "Also studying Japanese and currently at N5 level."                 << std::endl;
-            std::cout << "=================================================================" << std::endl;
+            std::cout << "==================================================================================" << std::endl;
+            std::cout << "Welcome to my profile!"                                                             << std::endl;
+            std::cout << "I am in the 4th semester of Computer Science."                                      << std::endl;
+            std::cout << "Currently learning game development with C++, using Unreal Engine, SFML and OpenGL" << std::endl;
+            std::cout << "Also studying Japanese and currently at N5 level."                                  << std::endl;
+            std::cout << "==================================================================================" << std::endl;
         }
 };
 
